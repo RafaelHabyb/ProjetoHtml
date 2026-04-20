@@ -9,8 +9,6 @@ Projeto em HTML, com perguntas sobre a Bíblia.
 
 ## Tecnologias
 - HTML
-- CSS
-- JavaScript
 
 ## Autor
 Rafael Habyb
